@@ -2,5 +2,6 @@
 
 Posted
 
-Error Lógico
-Comprender lo Esencial
+☆ Error Lógico
+☆ Comprender lo Esencial
+☆ Análisis en el Desarrollo de Software
