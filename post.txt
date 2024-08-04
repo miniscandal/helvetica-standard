@@ -6,3 +6,4 @@ Posted
 ☆ Comprender lo Esencial
 ☆ Análisis en el Desarrollo de Software
 ☆ Parámetros y Argumentos en Desarrollo de Software
+☆ [Terminal, Linea de Comando, Shell, Consola]
