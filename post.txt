@@ -9,3 +9,4 @@ Posted
 ☆ [Terminal, Linea de Comando, Shell, Consola]
 ☆ Vocabulario en Programación Orientada a Objetos
 ☆ Productividad en VSCode con Atajos de Teclado 
+☆ Separation of Concerns (SoC)
